@@ -1,0 +1,16 @@
+body{
+    background:linear-gradient(to left, antiquewhite, rgb(255, 191, 108));
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+section{
+    margin: auto;
+
+
+}
+
+img{
+    border-radius: 20px;
+    width: 300px;
+}
